@@ -1,6 +1,6 @@
-<div align="center">
+🇪🇸 **Español** · [🇬🇧 English](https://github.com/bytem1nd/bytem1nd/blob/main/README.en.md)
 
-🇪🇸 Español · [🇬🇧 English](https://github.com/bytem1nd/bytem1nd/blob/main/README.en.md)
+<div align="center">
 
 # Ángel Luis Rodríguez
 
